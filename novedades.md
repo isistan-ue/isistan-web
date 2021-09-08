@@ -9,4 +9,4 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
-{% twitter https://twitter.com/ISISTAN_CONICET maxwidth=750 %}
+<a class="twitter-timeline" data-width="750" href="https://twitter.com/ISISTAN_CONICET?ref_src=twsrc%5Etfw">Tweets by ISISTAN_CONICET</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 

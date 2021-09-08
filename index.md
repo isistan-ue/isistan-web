@@ -30,4 +30,4 @@ El ISISTAN realiza actividades de investigación y desarrollo en las Ciencias de
 
 # Novedades
 
-{% twitter https://twitter.com/ISISTAN_CONICET maxwidth=450 limit=3 %}
+<a class="twitter-timeline" data-tweet-limit="3" data-width="450" href="https://twitter.com/ISISTAN_CONICET?ref_src=twsrc%5Etfw">Tweets by ISISTAN_CONICET</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
