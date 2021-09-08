@@ -1,20 +1,27 @@
-# Minimal Mistakes remote theme starter
+# Guía de uso
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+Para desarrollar y hacer preview es necesario instalar Ruby. Conviene configurar Ruby para que instale gems en el HOME:
+    export BUNDLE_PATH=~/.gem
 
-Contains basic configuration to get you a site with:
+Luego crear un archivo ~/.gemrc y agregar:
+    gem: --no-document
+    gem: --user-install
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+Agregar al PATH el directorio local de gems (ajustar de acuerdo a la versión de Ruby): 
+    export PATH=$PATH:~/.gem/ruby/3.0.0/bin
+
+Finalmente se puede instalar bundler (similar a npm de NodeJS) y jekyll (generador de páginas Web):
+    gem install bundler
+    gem install jekyll
+
+Para previsualizar el sitio web:
+    BUNDLE_GEMFILE=Gemfile-dev bundle exec jekyll serve --livereload
+
+Para regenerar el índice del buscador:
+    BUNDLE_GEMFILE=Gemfile-dev ALGOLIA_API_KEY='CLAVE SUPER SECRETA...' jekyll algolia
+
+Esto puede fallar si hay páginas con mucho texto (plan gratis de agolia) en cuyo caso se puede eliminar temporariamente contenido (ej: en rrhh.md se puede quitar todo el detalle después de los nombres) 
 
 ---
 
