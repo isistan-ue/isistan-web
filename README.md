@@ -1,24 +1,30 @@
 # Guía de uso
 
 Para desarrollar y hacer preview es necesario instalar Ruby. Conviene configurar Ruby para que instale gems en el HOME:
+
     export BUNDLE_PATH=~/.gem
 
 Luego crear un archivo ~/.gemrc y agregar:
+
     gem: --no-document
     gem: --user-install
 
 
 Agregar al PATH el directorio local de gems (ajustar de acuerdo a la versión de Ruby): 
+
     export PATH=$PATH:~/.gem/ruby/3.0.0/bin
 
 Finalmente se puede instalar bundler (similar a npm de NodeJS) y jekyll (generador de páginas Web):
+
     gem install bundler
     gem install jekyll
 
 Para previsualizar el sitio web:
+
     BUNDLE_GEMFILE=Gemfile-dev bundle exec jekyll serve --livereload
 
 Para regenerar el índice del buscador:
+
     BUNDLE_GEMFILE=Gemfile-dev ALGOLIA_API_KEY='CLAVE SUPER SECRETA...' jekyll algolia
 
 Esto puede fallar si hay páginas con mucho texto (plan gratis de agolia) en cuyo caso se puede eliminar temporariamente contenido (ej: en rrhh.md se puede quitar todo el detalle después de los nombres) 
