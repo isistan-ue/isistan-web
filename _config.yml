@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 logo                     : /assets/images/logo.png # path of logo image to display in the masthead, e.g. "/assets/images
 twitter_username: ISISTAN_CONICET
 github_username: 
-url: "https://www.isistan.unicen.edu.ar/"
+url: "https://alezunino.github.io/isistan-web/"
 repository:            alezunino/isistan-web
 github:                [metadata]
 search:                true
