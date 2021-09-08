@@ -1,37 +1,79 @@
 # Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# `jekyll serve`. If you change this file, please restart the server process.
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: MM
-email:
+remote_theme:          "mmistakes/minimal-mistakes"
+#  theme:              "minimal-mistakes-jekyll"
+
+minimal_mistakes_skin: "aqua" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Settings
+locale                   : "es-ES"
+title: ISISTAN
+title_separator          : "-"
+subtitle                 : "Instituto superior de ingeniería de software"
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
-search: true
+  El Instituto Superior de Ingeniería de Software de Tandil (ISISTAN) es una Unidad Ejecutora (UE) de doble dependencia UNCPBA-CONICET, creada en el año 2011 a partir del Núcleo de Actividades Científico - Tecnológicas denominado Instituto de Sistemas Tandil (ISISTAN). Forma parte del CCT-Tandil, dependiente del CONICET, y de la Facultad de Ciencias Exactas de la UNCPBA.. El ISISTAN realiza actividades de investigación y desarrollo en las Ciencias de la Computación, destacándose en las áreas de Ingeniería de Software e Inteligencia Artificial
+logo                     : /assets/images/logo.png # path of logo image to display in the masthead, e.g. "/assets/images
+twitter_username: ISISTAN_CONICET
+github_username: 
+url: "https://www.isistan.unicen.edu.ar/"
+repository:            alezunino/isistan-web
+github:                [metadata]
+search:                true
+search_full_content:   true # true, false (default)
+search_provider:       algolia # lunr (default), algolia
+# reindexar con ALGOLIA_API_KEY='...' jekyll algolia 
+algolia:               # registrado como alejandro.zunino@isistan
+  nodes_to_index:      'p,blockquote,li,table'
+  application_id:      UR16THV63B # YOUR_APPLICATION_ID
+  index_name:          isistan # YOUR_INDEX_NAME
+  search_only_api_key: 97cbce883464ed524be602d2730ad03f # YOUR_SEARCH_ONLY_API_KEY
+  powered_by:          true # true (default), false
+  files_to_exclude:
+    #- _posts/2017-11-28-post-exclude-search.md
+    #    - rrhh.md
+
+# SEO Related
+google_site_verification : # Replace this with your ID, or delete
+bing_site_verification   :
+yandex_site_verification :
+naver_site_verification  :
+
+# Social Sharing
+twitter:
+  username               : &twitter "ISISTAN_CONICET"
+facebook:
+  username               : &facebook "isistan.conicet"
+  app_id                 :
+  publisher              :
+og_image                 : "/assets/images/logo.png" # Open Graph/Twitter default site image
+# For specifying social profiles, used in _includes/seo.html
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+    - "https://twitter.com/ISISTAN_CONICET"
+    - "https://www.facebook.com/isistan.conicet/"
+
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+paginate_path: /novedades/page:num/
+timezone: America/Argentina/Buenos_Aires # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+# Collections
+collections:
+  capacidades:
+    output: true
+    permalink: /:collection/:path/
 
 include:
   - _pages
@@ -39,9 +81,11 @@ include:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
+exclude:
+- Gemfile
+- Gemfile.lock
+- Gemfile-dev
+- Session.vim
 #   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
@@ -54,38 +98,58 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
+  #  - jemoji
   - jekyll-include-cache
+  - jekyll-twitter-plugin
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  #  - jemoji
+  - jekyll-include-cache
+  - jekyll-twitter-plugin
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "ISISTAN"
+  #  avatar : "/assets/images/logo.png"
+  bio    : "UNCPBA & CONICET"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://twitter.com/ISISTAN_CONICET"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/isistan.conicet/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "https://spamty.eu/show/v6/1068/43d50a9c963e7be954d12cb8"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.isistan.unicen.edu.ar/"
+    - label: "Dirección"
+      icon: "fas fa-fw fa-map-marked"
+      url: "https://goo.gl/maps/5AJMzBEjGm5w73Qf9"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://twitter.com/ISISTAN_CONICET"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/isistan.conicet/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "https://spamty.eu/show/v6/1068/43d50a9c963e7be954d12cb8"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.isistan.unicen.edu.ar/"
+    - label: "Dirección"
+      icon: "fas fa-fw fa-map-marked"
+      url: "https://goo.gl/maps/5AJMzBEjGm5w73Qf9"
 
 defaults:
   # _posts
@@ -95,8 +159,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
+      read_time: false
+      comments: false
       share: true
       related: true
   # _pages
@@ -106,6 +170,18 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
 
 category_archive:
   type: liquid

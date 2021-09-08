@@ -1,9 +1,28 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Institucional"
+    url: /institucional/
+  - title: "Novedades"
+    url: /novedades/
+  - title: "RRHH"
+    url: /rrhh/
+  - title: "Capacidades"
+    url: /capacidades/
+  - title: "Transferencia"
+    url: /transferencia/
+  - title: "Cursos"
+    url: /cursos/
+  - title: "Proyectos I+D"
+    url: /proyectos/
+  - title: "Publicaciones"
+    url: /publicaciones/
+rrhh:
+  - title: Recursos humanos
+    children:
+      - title: Personal actual
+        url: /rrhh/
+      - title: Personal anterior
+        url: /anterior/
+      - title: Estudiantes de postgrado externos
+        url: /estudiantes/
+      - title: Graduados de postgrado externos
+        url: /graduados/
