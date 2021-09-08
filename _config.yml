@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 remote_theme:          "mmistakes/minimal-mistakes"
-#  theme:              "minimal-mistakes-jekyll"
+theme:              "minimal-mistakes-jekyll"
 
 minimal_mistakes_skin: "aqua" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -130,6 +130,9 @@ author:
     - label: "Dirección"
       icon: "fas fa-fw fa-map-marked"
       url: "https://goo.gl/maps/5AJMzBEjGm5w73Qf9"
+    - label: "+54 249 4385650"
+      icon: "fas fa-fw fa-phone"
+      url: "tel:+54-249-4385650"
 
 footer:
   links:
@@ -148,6 +151,9 @@ footer:
     - label: "Dirección"
       icon: "fas fa-fw fa-map-marked"
       url: "https://goo.gl/maps/5AJMzBEjGm5w73Qf9"
+    - label: "+54 249 4385650"
+      icon: "fas fa-fw fa-phone"
+      url: "tel:+54-249-4385650"
 
 defaults:
   # _posts
