@@ -16,7 +16,7 @@ El ISISTAN posee investigadores de destacada trayectoria pertenecientes a las ca
 
 <div style="font-size:0.8em">
 
-<table>
+<table id="table">
     <thead>
       <tr>
         <th>APELLIDO Y NOMBRE</th>
@@ -50,4 +50,3 @@ El ISISTAN posee investigadores de destacada trayectoria pertenecientes a las ca
 </table>
 
 </div>
-

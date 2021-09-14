@@ -74,6 +74,9 @@ collections:
   capacidades:
     output: true
     permalink: /:collection/:path/
+  tecnologias:
+    output: true
+    permalink: /:collection/:path/
 
 include:
   - _pages

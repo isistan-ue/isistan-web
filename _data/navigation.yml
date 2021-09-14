@@ -9,6 +9,8 @@ main:
     url: /capacidades/
   - title: "Becas"
     url: /becas/
+  - title: "Tecnologías"
+    url: /tecnologias/
   - title: "Transferencia"
     url: /transferencia/
   - title: "Cursos"
