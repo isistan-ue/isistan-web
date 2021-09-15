@@ -43,6 +43,7 @@ El ISISTAN posee investigadores de destacada trayectoria pertenecientes a las ca
             {% if member.Pconicet %} <a href="{{ member.Pconicet }}"><i class="fas fa-university"></i></a> {% endif %}
             {% if member.Pscholar %} <a href="{{ member.Pscholar }}"><i class="fas fa-graduation-cap"></i></a> {% endif %}
             {% if member.Porcid %} <a href="{{ member.Porcid }}"><i class="fab fa-orcid"></i></a> {% endif %}
+            {% if member.Pdblp %} <a href="{{ member.Pdblp }}"><i class="fas fa-book-open"></i></a> {% endif %}
         </td>
       </tr>
     {% endfor %}
