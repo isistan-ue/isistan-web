@@ -22,6 +22,7 @@ El ISISTAN realiza actividades de investigación y desarrollo en las Ciencias de
 [![Logo UNCPBA](/assets/images/logoUNCPBA.png)](https://www.unicen.edu.ar)
 [![Logo CONICET](/assets/images/logoCONICET.png)](https://www.conicet.gov.ar/)
 [![Logo CCT](/assets/images/logoCCT.png)](https://tandil.conicet.gov.ar/)
+[![Logo Exactas](/assets/images/logoExactas.png)](https://www.exa.unicen.edu.ar)
 
 
 ![QR Web](/assets/images/qr.png)
