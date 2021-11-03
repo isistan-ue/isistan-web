@@ -23,7 +23,7 @@ github_username:
 url: "https://alezunino.github.io/isistan-web/"
 repository:            alezunino/isistan-web
 github:                [metadata]
-search:                true
+search:                false
 search_full_content:   true # true, false (default)
 search_provider:       algolia # lunr (default), algolia
 # reindexar con ALGOLIA_API_KEY='...' jekyll algolia 

@@ -31,6 +31,10 @@ El Consejo Directivo determinará las prioridades de trabajo y los lineamientos 
 
 - Dr. Zunino Alejandro
 
+## Vicedirector
+
+- Dr. Jorge Andrés Díaz Pace 
+
 ## Consejo Directivo
 
 - Dr. Armentano Marcelo
