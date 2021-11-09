@@ -13,7 +13,7 @@ excerpt: >
   </small>
 ---
 
-El Instituto Superior de Ingeniería de Software de Tandil (ISISTAN) es una Unidad Ejecutora de doble dependencia [Universidad Nacional del Centro de la Provincia de Buenos Aires](https://www.unicen.edu.ar) y [Consejo Nacional de Investigaciones Científicas y Técnicas](https://www.conicet.gov.ar/), creada en el año 2011 a partir del Núcleo de Actividades Científico - Tecnológicas denominado [Instituto de Sistemas Tandil (ISISTAN)](http://nact.isistan.unicen.edu.ar/). Forma parte del [CCT-Tandil](https://tandil.conicet.gov.ar/), dependiente del CONICET, y de la [Facultad de Ciencias Exactas](https://web.exa.unicen.edu.ar/) de la UNCPBA.
+El Instituto Superior de Ingeniería de Software de Tandil (ISISTAN) es una Unidad Ejecutora de doble dependencia [Universidad Nacional del Centro de la Provincia de Buenos Aires (UNCPBA)](https://www.unicen.edu.ar) y [Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)](https://www.conicet.gov.ar/), creada en el año 2011 a partir del Núcleo de Actividades Científico Tecnológicas denominado [Instituto de Sistemas Tandil (ISISTAN)](http://nact.isistan.unicen.edu.ar/). Forma parte del [Centro Científico Tecnológico Tandil](https://tandil.conicet.gov.ar/), dependiente del CONICET, y de la [Facultad de Ciencias Exactas](https://web.exa.unicen.edu.ar/) de la UNCPBA.
 
 El ISISTAN realiza actividades de investigación y desarrollo en las Ciencias de la Computación, destacándose en las áreas de Ingeniería de Software e Inteligencia Artificial.
 
