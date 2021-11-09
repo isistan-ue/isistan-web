@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: Capacidades cienfíticas
+title: Capacidades científicas
 permalink: /capacidades/
 collection: capacidades
 entries_layout: grid
