@@ -11,4 +11,4 @@ header:
 
 A partir de las investigaciones llevadas a cabo, se publican los resultados en las más importantes y prestigiosas revistas internacionales y eventos científicos. [Contáctenos](https://spamty.eu/show/v6/1068/43d50a9c963e7be954d12cb8) para obtener cualquiera de las publicaciones.
 
- <script src="https://bibbase.org/show?bib=http%3A%2F%2Ftransfer.sh%2Fq45gU4%2Fisistan.bib&commas=true&jsonp=1"></script> 
+ <script src="https://bibbase.org/show?bib=http%3A%2F%2Ftransfer.sh%2FW90PfV%2Fisistan.bib&commas=true&jsonp=1"></script> 
