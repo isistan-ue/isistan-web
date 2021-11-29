@@ -38,8 +38,8 @@ El Consejo Directivo determinará las prioridades de trabajo y los lineamientos 
 ## Consejo Directivo
 
 - Dr. Armentano Marcelo
-- Dra. Schiaffino Silvia 
-- Dr. Diaz Pace Andres 
-- Dr. Mateos Cristian
-- Dr. Teyseyre Alfredo
-- Dr.  Alonso Diego
+- Dra. Schiaffino Silvia
+- Dr. Rodriguez Juan Manuel
+- Dr. Rodriguez Guillermo
+- Dr. Toloza Juan Manuel
+- Dr. Vallejos Sebastian
