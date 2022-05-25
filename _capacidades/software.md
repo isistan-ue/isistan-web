@@ -28,7 +28,7 @@ Algunas líneas de investigación son:
 - Backtesting y bots para fintech
 - Interpretabilidad de optimizaciones (automatizadas) de arquitectura 
 - Servicios Web.
-- Calidad en mircroservicios para migración de arquitectura.
+- Calidad en microservicios para migración de arquitectura.
 
 Algunos proyectos relacionados con estas líneas son: 
 - Optimización Web con Javascript. Sadosky Fase 0 junto a la empresa Beereal.
