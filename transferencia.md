@@ -3,7 +3,7 @@ layout: datatable
 title: Transferencia de conocimiento y tecnología 
 permalink: /transferencia/
 toc: false
-data: proyectos
+data: servicios
 author_profile: true
 classes: wide
 header:
