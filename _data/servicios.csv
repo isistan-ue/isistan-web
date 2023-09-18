@@ -1,25 +1,41 @@
-Título,Responsable,Tipo,Identificación,Palabras clave
-Evaluación tecnológica de alternativas para la construcción de aplicaciones móviles multi-plataforma,Cristian Mateos Diaz,Asesoría técnica,ST5230,Aplicación móvil multi-plataforma ; Android ; iOS
-Curso Desarrollo de Aplicaciones Móviles basadas en Posicionamiento usando la plataforma Android,Juan Manuel Rodriguez,Asesoría técnica,ST4424,Aplicaciones móviles // Geolocalización // Android
-Evaluación de técnicas basadas en deep learning para estimación corporal a partir de imágenes de vacas,Cristian Mateos Diaz,Asesoría técnica,ST4423,Condición corporal ; Vaca de cría ; Vaca lechera ; Red neuronal convolucional ; Cámara ToF
-Procesamiento de datos con Aprendizaje de Máquina,"Andrés Díaz Pace, Antonela Tommasel",Asesoría técnica,ST4223,Aprendizaje de máquina; Mineria de datos; Ajuste de parámetros; Descubrimiento de conocimiento; Inteligencia artificial
-Curso de Arquitecturas para Big Data,Andrés Díaz Pace,Curso,ST2894,Big Data ; Arquitecturas de Software ; Análisis de datos ; Cloud Computing
-Evaluación técnica de Arquitectura de Software,Andrés Díaz Pace,Evaluación técnica,ST2702,Arquitecturas de Software ; Análisis de atributos de calidad ; Métodos QAW y ATAM
+Título,Responsable,Tipo,Identificación,Palabras clave,,,,
+Ayacucho Plataforma de Servicios - APS 2020 – 2023,Berdún Luis Sebastián,Asesoría técnica,,"Plataforma de Servicios, Redes sociales georeferenciadas, Movilidad urbana, Seguimiento epidemiológico",,,,
+"Convenio Nro. 2 UNCPBA-FYPF: Diseño, desarrollo, suministro e instalación de dos entornos CAVE y plataforma
+de software de simulación de escenarios y situaciones para el entrenamiento de operatoria de perforación y terminación
+de pozos en petróleo y gas",Garcia Bauza Cristian Darío,Asesoría y asistencia técnica,,"Terminación de pozos, Petróleo, Simulador de entrenamiento",,,,
+Monitoreo Remoto de Pacientes Crónicos,Mateos Cristian Maximiliano,Soluciones Innovadoras para Desafíos de Software,MOPA,"Edge Computing, Bluetooth low energy, Análisis de señales ECG",,,,
+"Prototipo de recomendación inteligente de anuncios de un portal de ventas online basada en la adquisición
+implícita de preferencias del usuario y condiciones geoespaciales",Berdún Luis Sebastián,Fase Cero,,"Perfilado inteligente de usuarios, Perfilado grupal, Inteligencia Artificial, Servicios Geoposicionados,
+Comercio Electrónico",,,,
+Trazabilidad en la Distribución de Hidrógeno Verde usando Blockchain en la Nube,"Diaz Pace Jorge Andrés, Tiglio Manuel",Iniciativa AWS Innova (CONICET),,Trazabilidad; Hidrógeno verde; Blockchain; Computación en la nube,,,,
+Acuerdo Especifico de Colaboración Científica entre la UNICEN y la Empresa TEMPERIES INFORMATION TECHNOLOGY S.A,"Vidal Santiago, Marcos Claudia",Capacitación y asesoría técnica,,"Nuevas tecnologías, Desarrollo de software, Capacitación",,,,
+Acuerdo Específico de Colaboración Científica entre la Empresa Lider Life S.A y la U.N.C.P.B.A,"Vidal Santiago, Marcos Claudia",Asesoría técnica,,"Analisis de code smells, Polo tecnologico de Tandil",,,,
+Asesoría de la Empresa it-Mentor,Marcos Claudia,Asesoría técnica,,Sector productivo,,,,
+Colaboración en la definición de los alcances de las Calificaciones Profesionales de IBM,Marcos Claudia,Asesoría técnica,,"Calificaciones, Comunidad científica",,,,
+NVIDIA DLI Fundamentals of Deep Learning Faculty Development Workshop,Rodriguez Juan Manuel,Capacitación,,"Deep Learning, Data Science, Certification",,,,
+NVIDIA DLI University Ambassaror,Rodriguez Juan Manuel,Capacitación,,"Cursos, Formación",,,,
+Determinación preliminar de hábitos y conciencia de reciclaje en el Barrio Arroyo Seco,Vidal Santiago,Evaluación y asesoría,,"Reciclaje, Medio Ambiente, Municipio de Tandil",,,,
+Tecnología aplicada a las Redes Sociales Solidarias,Teyseyre Alfredo,Asistensia técnica,,"Aplicación móvil, ONGs, Gestión y asignación de recursos",,,,
+Proyecto Fase Cero. Asesoramiento para la resolución de problemas productivos o de Gestión,"Berdún Luis, Armentano Marcelo, Schiaffino Silvia, Nigro Héctor Oscar, Gonzalez Cisaro Sandra, Vallejos Sebastián, Alonso Diego",Asesoría técnica,,,,,,
+Convenio CNPT. Asesoramiento para la resolución de problemas productivos o de Gestión,"Diaz Pace Jorge Andrés, Rodriguez Juan Manuel, Teyseyre Alfredo",Convenio de cooperación técnica,,,,,,
+Evaluación tecnológica de alternativas para la construcción de aplicaciones móviles multi-plataforma,Zunino Alejandro,Asesoría técnica,,"Higiene, alimentacion y nutricion",,,,
+Introducción de mejoras técnicas en procesos o productos,"Teyseyre Alfredo, Diaz Pace Andrés, Rodriguez Juan Manuel",Convenio de cooperación técnica,,,,,,
+Asesoramiento sobre las alternativas tecnológicas del mercado para la implantación e integración de sistemas de software basados en IoT y Web of Things,"Mateos Cristian, Teyseyre Alfredo",Servicios Tecnológicos de Alto Nivel (STAN),,"Sistemas de software, IoT, Web of Things",,,,
+Procesamiento de datos textuales desestructurados con procesamiento de máquina,"Tommasel Antonela, Diaz Pace Jorge Andrés, Monteserín Ariel, Teyseyre Alfredo, Godoy Daniela",Servicios Tecnológicos de Alto Nivel (STAN),,"Procesamiento de datos, procesamiento de máquina",,,,
+Recomendación de Cursos a Personal del Estado,"Tommasel Antonela, Diaz Pace Jorge Andrés, Godoy Daniela",Convenio I+D,,,,,,
+Convenio de Asistencia Técnica,"Diaz Pace Jorge Andrés, Tommasel Antonela, Godoy Daniela",Convenio de cooperación técnica,,,,,,
+Convenio INAP. Introducción de mejoras técnicas en procesos o productos,"Diaz Pace Jorge Andrés, Tommasel Antonela, Godoy Daniela",Convenio de cooperación técnica,,,,,,
+Servicio de Diseño de un Sistema de Información para la Gestión y Registro de Torturas y Muertes bajo Custodia,"Diaz Pace Jorge Andrés, Rodriguez Juan Manuel, Teyseyre Alfredo",Convenio de cooperación técnica ,,,,,,
+Asesoramiento sobre alternativas tecnológicas Web GIS (Geographic Information System) CMS (Content Management System) de Código Abierto,"Teyseyre Alfredo, Mateos Cristian",Servicios Tecnológicos de Alto Nivel (STAN),,"Geographic Information System, Content Management System",,,,
+Estudio de Factibilidad de Plataforma de Crowdsourcing para Desarrollo de Servicios,"Diaz Pace Jorge Andrés, Tommasel Antonela, Rodriguez Juan Manuel, Teyseyre Alfredo",Servicios Tecnológicos de Alto Nivel (STAN),,Plataforma de Crowdsourcing,,,,
+Procesamiento de datos con Aprendizaje de Máquina,"Teyseyre Alfredo, Monteserin Ariel, Diaz Pace Andrés, Tommsel Antonela, Godoy Daniela",Servicios Tecnológicos de Alto Nivel,,"Procesamiento de Datos, Aprendizaje de Máquina",,,,
+Evaluación tecnológica de alternativas para la construcción de aplicaciones móviles multi-plataforma,Cristian Mateos Diaz,Asesoría técnica,ST5230,Aplicación móvil multi-plataforma , Android , iOS,,
+Curso Desarrollo de Aplicaciones Móviles basadas en Posicionamiento usando la plataforma Android,Juan Manuel Rodriguez,Asesoría técnica,ST4424,Aplicaciones móviles // Geolocalización // Android,,,,
+Evaluación de técnicas basadas en deep learning para estimación corporal a partir de imágenes de vacas,Cristian Mateos Diaz,Asesoría técnica,ST4423,Condición corporal , Vaca de cría , Vaca lechera , Red neuronal convolucional , Cámara ToF
+Procesamiento de datos con Aprendizaje de Máquina,"Andrés Díaz Pace, Antonela Tommasel",Asesoría técnica,ST4223,Aprendizaje de máquina, Mineria de datos, Ajuste de parámetros, Descubrimiento de conocimiento, Inteligencia artificial
+Curso de Arquitecturas para Big Data,Andrés Díaz Pace,Curso,ST2894,Big Data , Arquitecturas de Software , Análisis de datos , Cloud Computing,
+Evaluación técnica de Arquitectura de Software,Andrés Díaz Pace,Evaluación técnica,ST2702,Arquitecturas de Software , Análisis de atributos de calidad , Métodos QAW y ATAM,,
 "Curso de Arquitecturas para computación en la nube
-",Andrés Díaz Pace,Curso,ST2556,Computación en la Nube ; Arquitecturas ; IaaS ; PaaS ;SaaS
+",Andrés Díaz Pace,Curso,ST2556,Computación en la Nube , Arquitecturas , IaaS , PaaS ,SaaS
 "Curso de Arquitecturas para computación en la nube
-",Andrés Díaz Pace,Curso,ST2502,Computación en la Nube ; Arquitecturas ; IaaS ; PaaS ;SaaS
-Evaluación técnica de Arquitectura de Software,Andrés Díaz Pace,Evaluación técnica,ST2471,Arquitecturas de Software ; Análisis de atributos de calidad ; Métodos QAW y ATAM
-Evaluación técnica de Arquitectura de Software,Andrés Díaz Pace,Evaluación técnica,ST2342,Arquitecturas de Software ; Análisis de atributos de calidad ; Métodos QAW y ATAM
-"Curso de Arquitecturas para computación en la nube
-",Andrés Díaz Pace,Curso,ST2266,Computación en la Nube ; Arquitecturas ; IaaS ; PaaS ;SaaS
-Curso de Arquitecturas de Software,Andrés Díaz Pace,Curso,ST2010,"Arquitecturas de Software ; Técnicas de Diseño ; Conceptos
-"
-Asistencia técnica para generar configuración personalizada del sistema OpenWrt,Cristian Mateos Diaz,Asesoría técnica,PR4944,Telecomunicaciones; OpenWrt; Router; Firmware; Banda Ancha
-Evaluación técnica de Arquitectura de Software,Andres Diaz Pace,Asesoría técnica,OF8,Arquitecturas de Software // Análisis de atributos de calidad // Métodos QAW y ATAM
-Curso Arquitecturas para Computación en la Nube,Andres Diaz Pace,Capacitación,OF7,Computación en la Nube // Arquitecturas // laaS // PaaS // SaaS
-Procesamiento de datos con Aprendizaje de Máquina,Guillermo Rodriguez,Asesoría técnica,OF25,Aprendizaje de máquina; Mineria de datos; Ajuste de parámetros; Descubrimiento de conocimiento; Inteligencia artificial
-Curso de Arquitecturas de Software,Andres Diaz Pace,Capacitación,OF20,Arquitecturas de Software // Atributos de calidad // Documentación // Transformación Digital
-Curso Arquitecturas para Big Data,Andres Diaz Pace,Capacitación,OF14,Big Data // Arquitecturas de Software // Análisis de datos // Cloud Computing
-Capacitación en Inteligencia Artificial,Antonela Tommasel,Capacitación,,Procesamiento de lenguaje natural; Inteligencia Artificial
-Capacitación en Inteligencia Artificial,"Alfredo Teyseyre, Ariel Monteserín, Silvia Schiaffino, Daniela Godoy",Capacitación,,Inteligencia Artificial; Aprendizaje automático
+",Andrés Díaz Pace,Curso,ST2502,Computación en la Nube , Arquitecturas , IaaS , PaaS ,SaaS

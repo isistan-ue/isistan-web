@@ -1,49 +1,97 @@
-Título,Director,Inicio,Fin,Tipo,Identificación,Palabras clave
+Título,Director,Inicio,Fin,Tipo,Identificación,Palabras clave,,,
+Análisis inteligente de movilidad ciudadana a partir de información agregada de dispositivos móviles,"Armentano Marcelo Gabriel, Monteserin Ariel José",2021,2023,PIP,11220200102893CO,"CROWDSENSING; MOVILIDAD URBANA; CIUDADES INTELIGENTES; CROWDSENSING; MOVILIDAD
+URBANA; CIUDADES INTELIGENTES",,,
+Aprendizaje por refuerzo aplicado al etiquetado de tráfico de red,"Catania Carlos Adrian, Marchetta Fernandez Martin Gonzalo",2022,2024,Tipo 1,06/B040-T1,APRENDIZAJE POR REFUERZO, ETIQUETADO, TRAFICO DE RED,
+Asistencia a la selección de componentes en arquitecturas de microservicios usando técnicas de machine learning,"Rodríguez Guillermo Horacio, Vidal Santiago Agustín",2021,2023,PIP,B1852,MICROSERVICIOS, MACHINE LEARNING, SELECCION DE COMPONENTES,
+Autoescalado basado en aprendizaje profundo por refuerzo de workflows científicos en la nube,"Pacini Naumovich Elina Rocío, Catania Carlos Adrían",2022,2024,Tipo 1,B038-T1,CLOUOD COMPUTING, AUTOESCALADO, WORKFLOWS, APRENDIZAJE PROFUNDO POR REFUERZO
+Desarrollo de Aplicaciones para colaboración en E-learning,"Costaguta Rosanna, Nieves María De Los Ángeles",2022,2025,Proyecto de investigación CICyT UNSE,,E-LEARNING, APRENDIZAJE COLABORATIVO,,
+Desarrollo de sistemas embebidos para crecimiento regional,"Leiva Elías Lucas, Toloza Juan Manuel",2020,2023,I+D Investigación aplicada,,SISTEMAS EMBEBIDOS, SOLUCIONES HARDWARE, DESARROLLOS A MEDIDA,
+"Desarrollo de soluciones informáticas para el diseño de novo de moléculas en proyectos de descubrimiento de
+fármacos mediante el uso de técnicas de aprendizaje profundo y analítica visual","Ponzoni, Ignacio",2022,2025,PIP2022,11220210100600CO,DISEÑO DE NOVO, APRENDIZAJE MAQUINAL, ANALÍTICA VISUAL, DESCUBRIMIENTO DE FÁRMACOS
+"Desarrollo de Tecnologías Quimioinformáticas basadas en Aprendizaje Profundo y Analítica Visual para la
+Predicción de Propiedades de Moléculas","Ponzoni, Ignacio",2021,2024,PICT 2019,PICT-2019-03350,"QUIMIOINFORMATICA; APRENDIZAJE MAQUINAL; DISEÑO RACIONAL DE FARMACOS; INFORMATICA
+DE POLIMEROS",,,
+"Desarrollo de un aparejo móvil IoT basado en visión computacional e inteligencia artificial, para la determinación
+automática del grado de terminación y condición corporal de bovinos",Machado Claudio,2022,2024,Desarrollo experimental tecnológico,PICT-STARTUP-2021-00016,GANADERIA DE PRECISION, CONDICIÓN CORPORAL, IMAGENES, IOT
+"Diseño, desarrollo y fabricación de un simulador para el adiestramiento del personal submarinista de la Armada
+Argentina",García Bauza Cristian Darío,2020,2022,I+D,,SOFTWARE DE SIMULACIÓN, SUBMARINOS, FUERZAS ARMADAS,
+"Diseño, desarrollo, suministro e instalación de dos entornos CAVE y plataforma de software de simulación de
+escenarios y situaciones para el entrenamiento de operatoria de perforación en petróleo y gas",García Bauza Cristian Darío,2021,2022,I+D,Expte. UNCPBA nro. 1-76253/2021 alc. 1 anx. 1,"SOFTWARE DE SIMULACIÓN; ENTORNOS DE REALIDAD VIRTUAL; ENTRENAMIENTO; PERFORACIÓN
+EN PETRÓLEO Y GAS",,,
+"Estimación de la evapotranspiración y su contribución en el sistema pampeano en un contexto de variabilidad
+Climática","Degano María Florencia, Carmona Facundo",2021,2022,Investigación aplicada,03-JOVIN-71I,"EVAPOTRANSPIRACIÓN POTENCIAL; EVAPOTRANSPIRACIÓN REAL; INTELIGENCIA ARTIFICIAL;
+TELEDETECCIÓN",,,
+"Expresión facial de las emociones en equinos (Equus caballus) sangre pura de carrera: Conformación de una
+base de datos propia y abierta, clasificación y análisis de modelos computacionales para el desarrollo de indicadores de
+Comportamiento","Toloza Juan Manuel, Ghezzi Marcelo Daniel",2022,2023,PIO,03-PIO-101C,EXPRESIÓN FACIAL, COMPORTAMIENTO ANIMAL, INTELIGENCIA ARTIFICIAL, DEEP LEARNING
+Gestión Informática del Conocimiento como soporte para la toma de decisiones Organizacionales,"Illescas Roberto Gustavo, Trípodi Gustavo",2021,2023,I+D,03/C314,"GESTION DEL CONOCIMIENTO; MINERIA DE DATOS; INTELIGENCIA ARTIFICIAL; TOMA DE DECISIONES
+ORGANIZACIONALES",,,
+"Herramienta de Software para Productores Ganaderos que Utiliza Machine Vision para Estimar Estado Corporal y
+Peso de los Animales",Mateos Diaz Cristian,2021,2022,I+D Investigación aplicada,,,,,
+Infraestructuras distribuidas híbridas para soportar la ejecución de algoritmos para sistemas de recomendación,Zunino Suarez Alejandro,2019,2022,PICT-I-A-2018,2018 03323,COMPUTACIÓN DISTRIBUIDA, SISTEMAS DE RECOMENDACIÓN,,
+"Mapeo de actores e identificación del grado de acople entre la oferta y la demanda tecnológica en el Ecosistema
+Agrotech en la región influencia de la UNICEN","Camio María Isabel, Dalponte Diego David",2021,2022,PEIDyT,03-PEIDYT -13B,AGTECH, AGRO 4.0, OFERTA Y DEMANDA TECNOLÓGICA,
+"Mecanismos a nivel plataforma para tratar movilidad durante la explotación de capacidad de cómputo en clústers
+de dispositivos móviles en el Edge",Hirsch Jofré Matías Eberardo,2022,2024,PIBAA,28720210101298CO,"EDGE COMPUTING; COMPUTACIÓN MÓVIL DISTRIBUIDA; PLANIFICACIÓN DE TRABAJOS
+CONSCIENTES DE MOBILIDAD",,,
+"Middleware para clústers de dispositivos móviles en el edge orientado a la ejecución de aplicaciones basadas en
+deep learning","Mateos Diaz Cristian, Zunino Suarez Alejandro",2022,2024,PIP 2022-2024 GI,11220210100138CO,EDGE COMPUTING, SMARTPHONES, DEEP LEARNING,
+"Minería de datos en Twitter aplicada al diseño de estrategias computacionales para farmacovigilancia en el
+contexto de COVID-19",Martínez María Jimena,2022,2024,I+D Investigación aplicada,,MINERÍA DE DATOS, FARMACOVIGILANCIA, COVID-19,
+Mitigación de desinformación en sistemas de recomendación,Tommasel Antonela,2021,2024,PIP,11220200102901CO,REDES SOCIALES, DESINFORMACIÓN, SISTEMAS DE RECOMENDACIÓN,
+"Nutrición materna y crecimiento prenatal e infantil en la postpandemia: herramientas de monitoreo en poblaciones
+vulnerables del Área Metropolitana de Buenos Aires",Gonzalez Paula,2021,2023,Programa Ciencia y Tecnología contra el Hambre,C11,NUTRICIÓN MATERNA, CRECIMIENTO PRE Y PERINATAL,,
+"Perspectiva de género en decisiones judiciales: Aplicando técnicas de Procesamiento de Lenguaje Natural (PLN)
+para detectar sesgos en razón del género","Giosa Laura María, Schiaffino Silvia Noemi",2021,2022,PIEDYT (Programa de Fortalecimiento SECAT),,PROCESAMIENTO DE LENGUAJE NATURAL, PERSPECTIVA DE GENERO,,
+PICT-E - Plataforma de Servicios para el Desarrollo de Software de Ciudades Inteligentes,Diaz Pace Jorge Andrés,2020,2022,Proyecto de Equipamiento,PICT-E 2018-0239,CIUDADES INTELIGENTES, COMPUTACIÓN ORIENTADA A SERVICIOS, SISTEMAS DE RECOMENDACIÓN,
+Plataforma de Servicios para el Desarrollo de Software de Ciudades Inteligentes,"Diaz Pace Jorge Andrés, Zunino Suarez Alejandro",2017,2022,PUE-Proyecto de Unidad Ejecutora,22920170100091CO,CIUDADES INTELIGENTES, COMPUTACIÓN ORIENTADA A SERVICIOS, SISTEMAS DE RECOMENDACIÓN,
+Plataforma de Servicios para el Desarrollo de Software de Ciudades Inteligentes – SPU,"Diaz Pace Jorge Andrés, Zunino Suarez Alejandro",2018,2022,Programa de Incentivos – SPU,03/C288,CIUDADES INTELIGENTES, SERVICIOS, APRENDIZAJE DE MAQUINA,
+"Predicción de Propiedades de Nuevos Materiales Poliméricos Previo a su Síntesis a Través
+del Desarrollo de Métodos Computacionales",Diaz Mónica Fátima,2020,2023,PICT-2018-04533,PICT-2018-04533,QUÍMICA COMPUTACIONAL, MATERIALES POLIMÉRICOS, QSPR,
+Recuperación y puesta en funcionamiento de un equipo automático de dispensación de medicamentos,"Tosini Marcelo, Zanelli Gustavo Héctor",2022,2023,03-PEIDYT- 22C,PEIDyT,DISPENSACIÓN DE MEDICAMENTOS, AUTOMATIZACIÓN, IoT, INDUSTRIA 4.0
+"Sistema semi-automático de calificación biométrica de vacas lecheras y modernización de la plataforma de
+gestión de datos de A.C.H.A. mediante inteligencia artificial y computación móvil",Mateos Diaz Cristian,2022,2023,Proyecto de Investigación y Desarrollo,PID 2020-0001,DEEP LEARNING, PRODUCCION GANADERA,,
+Sistemas de recomendación conscientes de daño online en redes sociales,"Godoy Daniela, Schiaffino Silvia Noemí",2022,2025,PICT2020,PICT-2020-SERIEA-01375,SISTEMAS DE RECOMENDACIÓN, CYBER-BULLY, HARM-AWARE, REDES SOCIALES
+Técnicas de mitigación de desinformación en sistemas de recomendación,Tommasel Antonela,2021,2023,PICT,PICT- 2019-2019-02620,REDES SOCIALES, SISTEMAS DE RECOMENDACIÓN, DESINFORMACIÓN,
+Técnicas de Optimización de Soluciones de Sistemas Embebidos de Alto Rendimiento (SE-AR),Tosini Marcelo,2018,2022,I+D Investigación aplicada,UNCPBA 03-C287,SISTEMAS EMBEBIDOS, LOGICA PROGRAMABLE, ARITMETICA DE COMPUTADORAS, IoT
+"Un enfoque inteligente de realidad virtual para teatro invisible que permite observar emociones de personas
+mayores mediante dispositivos de internet de las cosas ( IoT)","Cifuentes María Virginia, Rosso Martín Miguel",2021,2022,PIO - FORTALECIMIENTO III SECAT UNICEN,03-PIO-54C,PERSONAS MAYORES, TECNOLOGÍAS EMERGENTES PARA EDUCAR, TEATRO INMERSIVO,
 "Prototipo de Recomendación Inteligente de anuncios de un portal de
 ventas online basada en la adquisición implícita de preferencias del usuario
-y condiciones geoespaciales",Luis Berdun,2021,2021,"Fundación Sadosky, proyecto colaboración universidad - empresa (UNICEN - Región Global)",,
-Herramienta de Software para Productores Ganaderos que Utiliza Machine Vision para Estimar Estado Corporal y Peso de los Animales,Cristian Mateos Diaz,2021,2022,"Fundación Sadosky, proyecto colaboración Universidad-Empresa (UNICEN-Holy Data S.A.S)",,"CONDICIÓN CORPORAL, PESO, VACA DE CRÍA, INTELIGENCIA ARTIFICIAL"
-Plataforma de Software para Censado Participativo y Optimización de Recolección de Residuos Reciclables,Cristian Mateos Diaz,2019,2020,Vinculación Tecnológica (SPU),VT42-UNICEN11636,"RESIDUOS RECICLABLES, SEPARACIÓN EN ORIGEN, PUNTO LIMPIO AUTO-GESTIONADO, APLICACIÓN MÓVIL, ANDROID, IOS"
+y condiciones geoespaciales",Luis Berdun,2021,2021,"Fundación Sadosky, proyecto colaboración universidad - empresa (UNICEN - Región Global)",,,,,
+Herramienta de Software para Productores Ganaderos que Utiliza Machine Vision para Estimar Estado Corporal y Peso de los Animales,Cristian Mateos Diaz,2021,2022,"Fundación Sadosky, proyecto colaboración Universidad-Empresa (UNICEN-Holy Data S.A.S)",,"CONDICIÓN CORPORAL, PESO, VACA DE CRÍA, INTELIGENCIA ARTIFICIAL",,,
+Plataforma de Software para Censado Participativo y Optimización de Recolección de Residuos Reciclables,Cristian Mateos Diaz,2019,2020,Vinculación Tecnológica (SPU),VT42-UNICEN11636,"RESIDUOS RECICLABLES, SEPARACIÓN EN ORIGEN, PUNTO LIMPIO AUTO-GESTIONADO, APLICACIÓN MÓVIL, ANDROID, IOS",,,
 "Desarrollo de un Sistema Automático de Evaluación Biométrica del Ganado Lechero:
-Vacas Funcionales para cada Sistema Productivo","Cristian Mateos Diaz, Claudio Machado",2019,2021,PEIDyT - UNCPBA,03-PEIDYT-01C,"CALIFICACIÓN POR TIPO, VACA LECHERA, INTELIGENCIA ARTIFICIAL, COMPUTACIÓN MÓVIL"
-Infraestructuras distribuidas híbridas para soportar la ejecución de algoritmos para sistemas de recomendación,Alejandro Zunino,2019,2022,PICT,,COMPUTACIÓN DISTRIBUIDA; SISTEMAS DE RECOMENDACIÓN; COMPUTACIÓN MÓVIL
-Faking It! A fake news multi-sourced dataset powered by Social Media,"Daniela Godoy, Antonela Tommasel",2019,2020,Facebook Research Award,,"FAKE NEWS, DISINFORMATION"
-Hate speech is in the eye of the beholder: Exploring bias on hate perception,Antonela Tommasel,2019,2020,Facebook Research Award,,"HATE SPEECH, BIAS"
-Sistemas de Recomendación Harm-Aware en Medios Online (Online Harm-Aware Recommender System - OHARS),Daniela Godoy,2019,2021,Cooperación Internacional CONICET-Royal Society (UK),24020190100084CO,"RECOMMENDER SYSTEMS, HATE SPEECH, DISINFORMATION"
-Modelos de apoyo a la toma de decisiones ambientales en base a aprendizaje profundo,Daniela Godoy,2019,2020,PEIDyT - UNCPBA,03-PEIDYT-06C,"APRENDIZAJE PROFUNDO, HIDROLOGÍA"
-Plataforma de Servicios para el Desarrollo de Software de Ciudades Inteligentes,"Zunino, Alejandro, Andrés Díaz Pace",2017,2020,Proyectos de Investigación de Unidades Ejecutoras CONICET,22920170100091CO,CIUDADES INTELIGENTES; COMPUTACIÓN ORIENTADA A SERVICIOS; SISTEMAS DE RECOMENDACIÓN
-Estrategias para Automatizar el Proceso de Refactoring de Sistemas de Software,Claudia Marcos,2018,2020,IDEAS-PROYECTOS - CIC,,
-Plataformas para Grid Híbridos Orientados a MANETs Aplicados a Sistemas de Recomendación Basados en Ubicación,"Cristian Mateos Diaz, Daniela Godoy",2018,2020,PIP,11220170100490CO,"COMPUTACIÓN MÓVIL, GRID HÍBRIDOS, SISTEMAS DE RECOMENDACIÓN"
-Modelos de Look-alike para la Expansión de Audiencias,"Cristian Mateos Diaz, Daniela Godoy",2018,2018,"Fundación Sadosky, proyecto colaboración Universidad-Empresa (UNICEN-Retargetly)",S2018.,"LOOK-ALIKE, EXPANSIÓN DE AUDIENCIAS PUBLICITARIAS, BIG DATA, MACHINE LEARNING"
-Desarrollo de un prototipo de servicio web para la gestión inteligente de módulos y funciones en archivos JavaScript.,"Claudia Marcos, Andrés Díaz Pace",2017,2018,"Fundación Sadosky, proyecto colaboración Universidad-Empresa (UNICEN-BeeReal)",S2017,"MACHINE LEARNING, JAVASCRIPT, BIG DATA, TECNOLOGIAS WEB"
-Optimización Web JavaScript,"Claudia Marcos, Andrés Díaz Pace",2017,2018,Vinculación Tecnológica (SPU),VT38-UNICEN10191,"APRENDIZAJE AUTOMÁTICO, OPTIMIZADOR DE JAVASCRIPT, JAVASCRIPT"
-Recomendación Personalizada a Grupos de Usuarios Basada en Sistemas Multi-agente,Schiaffino Silvia,2016,2018,PIP,11220150100030CO,RECOMENDACIÓN PERSONALIZADA A GRUPOS DE USUARIOS BASADA EN SISTEMAS MULTI-AGENTE
-Ampliación de la capacidad tecnológica interdisciplinaria para una mayor y más efectiva adopción de TICs en producción animal,Machado Claudio,2015,2018,D-TEC,2013 N°0005/13,AGRO TICS; PRODUCCIÓN ANIMAL; MONITOREO; SENSORES INTELIGENTES
-Minería de redes sociales para la recomendación de usuarios,Armentano Marcelo,2015,2018,PICT,2014-2750,MINERÍA DE DATOS; REDES SOCIALES; PERFILES DE USUARIO; SISTEMAS DE RECOMENDACIÓN
-Desarrollo de Software Distribuido Orientado a Servicios Energéticamente Eficiente para Dispositivos Móviles,Zunino Alejandro,2014,2017,PICT,2013-0464,COMPUTACIÓN MÓVIL; SERVICIOS WEB; EFICIENCIA ENERGETICA; COMPUTACIÓN DISTRIBUIDA
-"Arquitecturas, técnicas escalables y de personalización para sistemas de software híbridos",Diaz Pace Andres,2015,2017,Proyecto de Incentivos,03/C258,ARQUITECTURAS DE SOFWARE; PERFILES DE USUARIO; SISTEMAS HIBRIDOS
-Planificadores Basados en Inteligencia Colectiva para el Procesamiento de Experimentos Científicos en Clouds Federados,Pacini Elina,2015,2017,PICT,2014-1430,EXPERIMENTOS CIENTÍFICOS; CLOUD COMPUTING; INTELIGENCIA COLECTIVA; PLANIFICACIÓN
-PUMAS - Personalized User-centered Multi-Agent Systems,Schiaffino Silvia,2015,2017,Cooperación bilateral,PUMAS2015,PERSONALIZATION; MULTIAGENT SYSTEMS
-Refactoring de Sistemas de Software Conducido por la Arquitectura,Vidal Santiago,2015,2017,PICT,2014-0855,CODE SMELLS; REFACTORING; ARQUITECTURA DE SOFTWARE
+Vacas Funcionales para cada Sistema Productivo","Cristian Mateos Diaz, Claudio Machado",2019,2021,PEIDyT - UNCPBA,03-PEIDYT-01C,"CALIFICACIÓN POR TIPO, VACA LECHERA, INTELIGENCIA ARTIFICIAL, COMPUTACIÓN MÓVIL",,,
+Infraestructuras distribuidas híbridas para soportar la ejecución de algoritmos para sistemas de recomendación,Alejandro Zunino,2019,2022,PICT,,COMPUTACIÓN DISTRIBUIDA, SISTEMAS DE RECOMENDACIÓN, COMPUTACIÓN MÓVIL,
+Faking It! A fake news multi-sourced dataset powered by Social Media,"Daniela Godoy, Antonela Tommasel",2019,2020,Facebook Research Award,,"FAKE NEWS, DISINFORMATION",,,
+Hate speech is in the eye of the beholder: Exploring bias on hate perception,Antonela Tommasel,2019,2020,Facebook Research Award,,"HATE SPEECH, BIAS",,,
+Sistemas de Recomendación Harm-Aware en Medios Online (Online Harm-Aware Recommender System - OHARS),Daniela Godoy,2019,2021,Cooperación Internacional CONICET-Royal Society (UK),24020190100084CO,"RECOMMENDER SYSTEMS, HATE SPEECH, DISINFORMATION",,,
+Modelos de apoyo a la toma de decisiones ambientales en base a aprendizaje profundo,Daniela Godoy,2019,2020,PEIDyT - UNCPBA,03-PEIDYT-06C,"APRENDIZAJE PROFUNDO, HIDROLOGÍA",,,
+Plataforma de Servicios para el Desarrollo de Software de Ciudades Inteligentes,"Zunino, Alejandro, Andrés Díaz Pace",2017,2020,Proyectos de Investigación de Unidades Ejecutoras CONICET,22920170100091CO,CIUDADES INTELIGENTES, COMPUTACIÓN ORIENTADA A SERVICIOS, SISTEMAS DE RECOMENDACIÓN,
+Estrategias para Automatizar el Proceso de Refactoring de Sistemas de Software,Claudia Marcos,2018,2020,IDEAS-PROYECTOS - CIC,,,,,
+Plataformas para Grid Híbridos Orientados a MANETs Aplicados a Sistemas de Recomendación Basados en Ubicación,"Cristian Mateos Diaz, Daniela Godoy",2018,2020,PIP,11220170100490CO,"COMPUTACIÓN MÓVIL, GRID HÍBRIDOS, SISTEMAS DE RECOMENDACIÓN",,,
+Modelos de Look-alike para la Expansión de Audiencias,"Cristian Mateos Diaz, Daniela Godoy",2018,2018,"Fundación Sadosky, proyecto colaboración Universidad-Empresa (UNICEN-Retargetly)",S2018.,"LOOK-ALIKE, EXPANSIÓN DE AUDIENCIAS PUBLICITARIAS, BIG DATA, MACHINE LEARNING",,,
+Desarrollo de un prototipo de servicio web para la gestión inteligente de módulos y funciones en archivos JavaScript.,"Claudia Marcos, Andrés Díaz Pace",2017,2018,"Fundación Sadosky, proyecto colaboración Universidad-Empresa (UNICEN-BeeReal)",S2017,"MACHINE LEARNING, JAVASCRIPT, BIG DATA, TECNOLOGIAS WEB",,,
+Optimización Web JavaScript,"Claudia Marcos, Andrés Díaz Pace",2017,2018,Vinculación Tecnológica (SPU),VT38-UNICEN10191,"APRENDIZAJE AUTOMÁTICO, OPTIMIZADOR DE JAVASCRIPT, JAVASCRIPT",,,
+Recomendación Personalizada a Grupos de Usuarios Basada en Sistemas Multi-agente,Schiaffino Silvia,2016,2018,PIP,11220150100030CO,RECOMENDACIÓN PERSONALIZADA A GRUPOS DE USUARIOS BASADA EN SISTEMAS MULTI-AGENTE,,,
+Ampliación de la capacidad tecnológica interdisciplinaria para una mayor y más efectiva adopción de TICs en producción animal,Machado Claudio,2015,2018,D-TEC,2013 N°0005/13,AGRO TICS, PRODUCCIÓN ANIMAL, MONITOREO, SENSORES INTELIGENTES
+Minería de redes sociales para la recomendación de usuarios,Armentano Marcelo,2015,2018,PICT,2014-2750,MINERÍA DE DATOS, REDES SOCIALES, PERFILES DE USUARIO, SISTEMAS DE RECOMENDACIÓN
+Desarrollo de Software Distribuido Orientado a Servicios Energéticamente Eficiente para Dispositivos Móviles,Zunino Alejandro,2014,2017,PICT,2013-0464,COMPUTACIÓN MÓVIL, SERVICIOS WEB, EFICIENCIA ENERGETICA, COMPUTACIÓN DISTRIBUIDA
+"Arquitecturas, técnicas escalables y de personalización para sistemas de software híbridos",Diaz Pace Andres,2015,2017,Proyecto de Incentivos,03/C258,ARQUITECTURAS DE SOFWARE, PERFILES DE USUARIO, SISTEMAS HIBRIDOS,
+Planificadores Basados en Inteligencia Colectiva para el Procesamiento de Experimentos Científicos en Clouds Federados,Pacini Elina,2015,2017,PICT,2014-1430,EXPERIMENTOS CIENTÍFICOS, CLOUD COMPUTING, INTELIGENCIA COLECTIVA, PLANIFICACIÓN
+PUMAS - Personalized User-centered Multi-Agent Systems,Schiaffino Silvia,2015,2017,Cooperación bilateral,PUMAS2015,PERSONALIZATION, MULTIAGENT SYSTEMS,,
+Refactoring de Sistemas de Software Conducido por la Arquitectura,Vidal Santiago,2015,2017,PICT,2014-0855,CODE SMELLS, REFACTORING, ARQUITECTURA DE SOFTWARE,
 "SQuAT: Técnicas de Búsqueda para Gestión de Tradeoffs entre Atributos de Calidad en Optimización de Diseños
-de Software",Diaz Pace Andres,2015,2017,Cooperación bilateral,AL/14/04,SOFTWARE DESIGN OPTIMIZATION; MULTI-OBJETIVE SEARCH TECHNIQUES; QUALITY-ATTRIBUTE TRADEOFFS; SOFTWAREARCHITECTURE
-Un Metodo Centrado en Arquitecturas de Software para lineas de producto con Soporte de Herramientas,Diaz Pace Andres,2015,2017,PDTS,217,ARQUITECTURAS DE SOFTWARE; MODELO DE DESARROLLO; ARQUITECTURA DE REFERENCIA;PROCESOS
-Mecanismos de Soporte para Grids Híbridos Orientados a Servicios y Técnicas de Desarrollo de Aplicaciones,Mateos Diaz Cristian,2013,2016,PICT,2012-0045,COMPUTACIÓN DISTRIBUIDA; GRID COMPUTING; COMPUTACIÓN MÓVIL; SERVICIOS WEB
-Un asistente inteligente para la planificación del transporte urbano,Berdun Luis,2014,2016,SPU,32-64-079,AGENTES INTELIGENTES; REDES SOCIALES; PROCESAMIENTO DE LENGUAGE NATURAL
-Coordinación basada en Agentes para Desarrollo Distribuido de Software centrado en Arquitecturas,Diaz Pace Andres,2012,2015,PIP,112-201101-00078,DISTRIBUTED SOFTWARE DEVELOPMENT; INTELLIGENT AGENTS; GROUP PROFILES
-Construcción de perfiles de usuario para asistencia inteligente en sistemas de trabajo colaborativo soportado por computadoras,Schiaffino Silvia,2012,2016,PICT,2011-0366,MODELADO DE USUARIOS; AGENTES INTELIGENTES
-Reconocimiento de intenciones para la memoria organizacional,Armentano Marcelo,2012,2015,PIP,114-201101-00181,RECONOCIMIENTO DE INTENCIONES; MEMORIA ORGANIZACIONAL; ADMINISTARCIÓN DE CONOCIMIENTO
-Botnet Detection by means of its network behavioral models,Zunino Alejandro,2013,2015,Cooperación bilateral,,BOTNET; MALWARE; DETECCIÓN; TRÁFICO DE RED
-Grids Híbridos Orientados a Servicios: Middleware y Herramientas para Soportar Algoritmos para Sistemas de Recomendación,Zunino Alejandro,2013,2015,PIP,11220120100185CO,GRID COMPUTACIONAL; SISTEMAS DE RECOMENDACIÓN; COMPUTACIÓN MÓVIL
-Algoritmos evolutivos para planeamiento de proyectos que optimizan la efectividad de los recursos humanos asignados a las actividades,Yannibelli Virginia,2013,2015,PICT,2012-1748,ALGORITMOS EVOLUTIVOS; PLANEAMIENTO DE PROYECTOS; ASIGNACIÓN DE RECURSOS HUMANOS
-Recomendación de Anomalias de Código relevantes a nivel Arquitectural,Diaz Pace Andres,2014,2015,Cooperación bilateral,BR/13/09,ANOMALÍAS DE CODIGO; HERRAMIENTA DE ASISTENCIA; ARQUITECTURAL DE SOFTWARE; ANÁLISIS Y HEURISTICAS
-Estrategias para mejorar a evolución y el mantenimiento de sistemas,Marcos Claudia,2014,2015,CIC,813/137,REFACTORING; EVOLUCION; MANTENIMIENTO; CODE SMELLS
-"Asistencia inteligente a usuarios en 
-aplicaciones de escritorio, web y móviles",Teyseyre Alfredo,2012,2014,Proyecto de Incentivos,03/C237,ASISTENCIA INTELIGENTE
-Reconocimiento de intenciones para la asistencia a usuarios en la Web,Armentano Marcelo,2011,2014,PICT,2011-0546,ASISTENCIA PERSONALIZADA; RECONOCIMIENTO DE INTENCIONES; MINERIA WEB; SISTEMAS DE RECOMENDACION; PERFILES DE USUARIO
-Behavioral Detection of Advanced Persistent Threats in Computer Networks,Somol Petr,2014,2014,CZECH TECHNICAL UNIVERSITY,,NETWORK SECURITY; CYBER CRIME; COMPUTER NETWORKS; ANOMALY DETECTION
-Métodos y Herramientas para Sistemas Masivamente Distribuidos,García Garino Carlos,2009,2013,PAE-PICT,2007-02312,COMPUTACION; SISTEMAS DISTRIBUIDOS
-Agentes Inteligentes aplicados a la Gestión de Documentación de Arquitecturas de Software en Redes de Trabajo,Diaz Pace Andres,2011,2013,PICT,2010-2247,AGENTES INTELIGENTES; ARQUITECTURAS DE SOFTWARE; DOCUMENTACION; STAKEHOLDERS
-Asistencia a usuarios durante la argumentación en trabajo colaborativo soportado por computadoras,Monteserin Ariel,2011,2013,PICT,2010- 1231,CSCW; ARGUMENTACIÓN COLABORATIVA; AGENTES PERSONALES; FORMACIÓN DE GRUPOS
-Servicios Web Semánticos Móviles,Zunino Alejandro,2009,2013,PAE-PICT,2007-02311,SERVICIOS WEB; WEB SEMÁNTICA; SERVICIOS MÓVILES
-Métodos inteligentes de recomendación y personalización de contenido en la Web,Godoy Daniela,2010,2012,PIP,114-200901-00381,SISTEMAS DE RECOMENDACIÓN; PERSONALIZACIÓN; APRENDIZAJE DE MÁQUINA
+de Software",Diaz Pace Andres,2015,2017,Cooperación bilateral,AL/14/04,SOFTWARE DESIGN OPTIMIZATION, MULTI-OBJETIVE SEARCH TECHNIQUES, QUALITY-ATTRIBUTE TRADEOFFS, SOFTWAREARCHITECTURE
+Un Metodo Centrado en Arquitecturas de Software para lineas de producto con Soporte de Herramientas,Diaz Pace Andres,2015,2017,PDTS,217,ARQUITECTURAS DE SOFTWARE, MODELO DE DESARROLLO, ARQUITECTURA DE REFERENCIA,PROCESOS
+Mecanismos de Soporte para Grids Híbridos Orientados a Servicios y Técnicas de Desarrollo de Aplicaciones,Mateos Diaz Cristian,2013,2016,PICT,2012-0045,COMPUTACIÓN DISTRIBUIDA, GRID COMPUTING, COMPUTACIÓN MÓVIL, SERVICIOS WEB
+Un asistente inteligente para la planificación del transporte urbano,Berdun Luis,2014,2016,SPU,32-64-079,AGENTES INTELIGENTES, REDES SOCIALES, PROCESAMIENTO DE LENGUAGE NATURAL,
+Coordinación basada en Agentes para Desarrollo Distribuido de Software centrado en Arquitecturas,Diaz Pace Andres,2012,2015,PIP,112-201101-00078,DISTRIBUTED SOFTWARE DEVELOPMENT, INTELLIGENT AGENTS, GROUP PROFILES,
+Construcción de perfiles de usuario para asistencia inteligente en sistemas de trabajo colaborativo soportado por computadoras,Schiaffino Silvia,2012,2016,PICT,2011-0366,MODELADO DE USUARIOS, AGENTES INTELIGENTES,,
+Reconocimiento de intenciones para la memoria organizacional,Armentano Marcelo,2012,2015,PIP,114-201101-00181,RECONOCIMIENTO DE INTENCIONES, MEMORIA ORGANIZACIONAL, ADMINISTARCIÓN DE CONOCIMIENTO,
+Botnet Detection by means of its network behavioral models,Zunino Alejandro,2013,2015,Cooperación bilateral,,BOTNET, MALWARE, DETECCIÓN, TRÁFICO DE RED
+Grids Híbridos Orientados a Servicios: Middleware y Herramientas para Soportar Algoritmos para Sistemas de Recomendación,Zunino Alejandro,2013,2015,PIP,11220120100185CO,GRID COMPUTACIONAL, SISTEMAS DE RECOMENDACIÓN, COMPUTACIÓN MÓVIL,
+Algoritmos evolutivos para planeamiento de proyectos que optimizan la efectividad de los recursos humanos asignados a las actividades,Yannibelli Virginia,2013,2015,PICT,2012-1748,ALGORITMOS EVOLUTIVOS, PLANEAMIENTO DE PROYECTOS, ASIGNACIÓN DE RECURSOS HUMANOS,
+Recomendación de Anomalias de Código relevantes a nivel Arquitectural,Diaz Pace Andres,2014,2015,Cooperación bilateral,BR/13/09,ANOMALÍAS DE CODIGO, HERRAMIENTA DE ASISTENCIA, ARQUITECTURAL DE SOFTWARE, ANÁLISIS Y HEURISTICAS
+Estrategias para mejorar a evolución y el mantenimiento de sistemas,Marcos Claudia,2014,2015,CIC,813/137,REFACTORING, EVOLUCION, MANTENIMIENTO, CODE SMELLS
