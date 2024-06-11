@@ -33,13 +33,15 @@ El Consejo Directivo determinará las prioridades de trabajo y los lineamientos 
 
 ## Vicedirector
 
-- Dr. Jorge Andrés Díaz Pace 
+- Dra. Silvia Schiaffino
 
 ## Consejo Directivo
 
-- Dr. Armentano Marcelo
-- Dra. Schiaffino Silvia
-- Dr. Rodriguez Juan Manuel
+- Dr. Berdun, Luis Sebastian
+- Dra. Marcos, Claudia Andrea
+- Dr. Mateos Diaz, Cristian Maximiliano
+- Dr. Monteserin, Ariel José
 - Dr. Rodriguez Guillermo
+- Dr. Rodriguez Juan Manuel
 - Dr. Toloza Juan Manuel
-- Dr. Vallejos Sebastian
+- Lic. Robino, Luciano Ivan
